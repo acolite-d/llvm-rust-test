@@ -1,0 +1,1 @@
+/home/jad/Projects/kaleidoscope-rust/target/debug/kaleidoscope-rust: /home/jad/Projects/kaleidoscope-rust/src/kaleidoscope/ast.rs /home/jad/Projects/kaleidoscope-rust/src/kaleidoscope/lexer.rs /home/jad/Projects/kaleidoscope-rust/src/kaleidoscope/mod.rs /home/jad/Projects/kaleidoscope-rust/src/main.rs
