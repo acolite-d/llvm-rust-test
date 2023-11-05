@@ -18,7 +18,12 @@ fn main() {
         ),
     };
 
-    let mut lexer = Lexer::new(source);
+    let lexer = Lexer::new(source);
+
+
+    // for t in lexer.into_iter() {
+    //     dbg!(t);
+    // }
 
     loop {
         match lexer.gettok() {
